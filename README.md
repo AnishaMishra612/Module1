@@ -1,2 +1,2 @@
-# Module1
+# PayPal Modules
 Paypal module
